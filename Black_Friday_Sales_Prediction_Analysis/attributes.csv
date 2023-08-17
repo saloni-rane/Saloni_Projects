@@ -1,0 +1,14 @@
+Attributes,Details
+user_id,user id (unique per buyer)
+product_id,product id (unique per product purchased)
+gender,gender of the user
+bmi,users basal metabolic rate
+age,age of the user
+occupation,user’s occupation
+city_category,city user lives in
+stay_in_current_city_years,current stayed time in the city
+marital_status,users marital status
+product_category_1,product category attribute
+product_category_2,product category attribute
+product_category_3,product category attribute
+purchase,purchased amount in $
